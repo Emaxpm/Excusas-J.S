@@ -1,1 +1,23 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #222;
+}
+
+p {
+  text-align: center;
+  margin: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  color: #fff;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+button {
+  background: #fff;
+  color: #111;
+  font-size: larger;
+  border: solid 4px rgb(60, 251, 89);
+  padding: 10px;
+}
